@@ -1,0 +1,7 @@
+# Dashboard look: accent colour matches the Uttarakhand series colour,
+# and the developer toolbar ("Deploy" button etc.) is hidden for demos.
+[theme]
+primaryColor = "#2a78d6"
+
+[client]
+toolbarMode = "minimal"
